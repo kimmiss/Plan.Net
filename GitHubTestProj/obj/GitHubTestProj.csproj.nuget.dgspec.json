@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mizz_\\Source\\Repos\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj": {}
+    "C:\\GitHub\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mizz_\\Source\\Repos\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj": {
+    "C:\\GitHub\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mizz_\\Source\\Repos\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj",
+        "projectUniqueName": "C:\\GitHub\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj",
         "projectName": "GitHubTestProj",
-        "projectPath": "C:\\Users\\mizz_\\Source\\Repos\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj",
-        "packagesPath": "C:\\Users\\mizz_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mizz_\\Source\\Repos\\Plan.Net\\GitHubTestProj\\obj\\",
+        "projectPath": "C:\\GitHub\\Plan.Net\\GitHubTestProj\\GitHubTestProj.csproj",
+        "packagesPath": "C:\\Users\\Vincent\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Plan.Net\\GitHubTestProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\mizz_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vincent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
